@@ -25,6 +25,16 @@ Here are some ideas to get you started:
 </div>
 
 
+<div style="display: inline_block"> <br>
+  <img align="center" alt="laravel" height="30" width=""40 src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img align="center" alt="php" height="30" width=""40 src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img align="center" alt="java" height="30" width=""40 src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="python" height="30" width=""40 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
+  <img align="center" alt="html" height="30" width=""40 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img align="center" alt="css" height="30" width=""40 src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img align="center" alt="javascript" height="30" width=""40 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 
+
+</div>
 
