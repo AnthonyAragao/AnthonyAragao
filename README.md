@@ -1,20 +1,7 @@
-<!--
-**AnthonyAragao/AnthonyAragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 ## Olá! Eu sou o Anthony Aragão 🖐️
+
+- 🔭 Apaixonado por tecnologia
+- 🌱 Estudante Ciências da Computação 4/10
 
 
 <div>
@@ -32,9 +19,7 @@ Here are some ideas to get you started:
   <img align="center" alt="python" height="30" width=""40 src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
   <img align="center" alt="html" height="30" width=""40 src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
   <img align="center" alt="css" height="30" width=""40 src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-  <img align="center" alt="javascript" height="30" width=""40 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-
+  <img align="center" alt="javascript" height="30" width=""40 src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
 </div>
-
+  
+  ##
