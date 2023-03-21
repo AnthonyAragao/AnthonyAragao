@@ -8,7 +8,6 @@
   <a href="https://github.com/AnthonyAragao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyAragao&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAragao&layout=compact&langs_count=16&theme=dracula"/>
-
 </div>
 
 
