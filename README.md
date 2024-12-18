@@ -4,8 +4,6 @@
   </a>
 </div>
 
-## Olá! Eu sou o Anthony Aragão 🖐️
-
 - 🔭 Apaixonado por tecnologia
 - 🌱 Graduando em Ciências da Computação - UFS
 
