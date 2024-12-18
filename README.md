@@ -3,10 +3,10 @@
 - 🔭 Apaixonado por tecnologia
 - 🌱 Graduando em Ciências da Computação - UFS
 
+<img align="right" alt="" src="./img/study.gif">
 <div>
   <a href="https://github.com/AnthonyAragao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyAragao&layout=compact&langs_count=16&theme=dracula"/>
- <img align="right" alt="" src="./img/study.gif">
 </div>
     
 <!-- Tech Stack -->
