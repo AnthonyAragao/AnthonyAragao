@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Anthony Aragão 🖐️
 
 - 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Ciências da Computação 8/10
+- 🌱 Graduando em Ciências da Computação - UFS
 
 <div>
   <a href="https://github.com/AnthonyAragao">
